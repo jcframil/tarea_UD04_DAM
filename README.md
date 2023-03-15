@@ -1,2 +1,7 @@
-# tarea_UD04_DAM
-Repositorio para la tarea de la unidad 04 de DAM
+# Tarea_UD04_DAM
+
+## Motivación
+
+Este repositorio tiene como objetivo contener el código de la tarea de la unidad04 de entornos de desarrollo.
+
+
