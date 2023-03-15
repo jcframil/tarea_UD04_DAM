@@ -1,10 +1,10 @@
 # Tarea_UD04_DAM
 
-## Motivación
+## Motivación :book:
 
 Este repositorio tiene como objetivo contener el código de la tarea de la unidad04 de entornos de desarrollo.
 
-## Estructura
+## Estructura :clipboard:
 
 En este repositorio encontraremos los siguientes ficheros:
 
