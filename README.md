@@ -8,7 +8,7 @@ Este repositorio tiene como objetivo contener el código de la tarea de la unida
 
 En este repositorio encontraremos los siguientes ficheros:
 
-- [proyecto Java deposito](deposito)
+- [Proyecto Java deposito](deposito)
 - [JavaDoc](deposito/dist/javadoc/index.html)
 - [Captura de comentarios](comments_deposito.png)
 
